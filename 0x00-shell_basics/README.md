@@ -5,3 +5,4 @@ ls -la is used to list the contents of current directory including hidden files 
 ls -nal displays directory's contents in long format, with user and group IDs displayed numerically, and hidden files (starting with .)
 mkdir /tmp/my_first_directory is used to create a directory named my_first_directory in /tmp directory
 mv tmp/betty /tmp/my_first_directory is used to move the file betty from /tmp to /tmp/my_first_directory
+rm /tmp/my_first_directory/betty is used to delete betty
