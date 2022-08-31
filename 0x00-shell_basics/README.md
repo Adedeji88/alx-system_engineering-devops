@@ -1,1 +1,1 @@
-pwd is the command for printing the current working directory
+ls is the command used to display the contents list of your current directory
