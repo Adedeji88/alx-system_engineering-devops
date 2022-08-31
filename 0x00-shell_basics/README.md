@@ -6,3 +6,4 @@ ls -nal displays directory's contents in long format, with user and group IDs di
 mkdir /tmp/my_first_directory is used to create a directory named my_first_directory in /tmp directory
 mv tmp/betty /tmp/my_first_directory is used to move the file betty from /tmp to /tmp/my_first_directory
 rm /tmp/my_first_directory/betty is used to delete betty
+rmdir /tmp/my_first_directory is used to delete the directory my_first_directory
