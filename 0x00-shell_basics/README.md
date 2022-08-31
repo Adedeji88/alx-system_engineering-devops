@@ -1,0 +1,1 @@
+rm *~ is used to delete all files in the current working directory that end with ~ character
