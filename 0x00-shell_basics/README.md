@@ -9,3 +9,4 @@ rm /tmp/my_first_directory/betty is used to delete betty
 rmdir /tmp/my_first_directory is used to delete the directory my_first_directory
 cd - is used to change the working directory to the previous one
 ls -la . .. /boot is used to list all files (even the ones wth names starting with a period character that are normally hidden) in the current directory and the parent of the working directory and /boot directory (in this order) in long format
+file /tmp/iamafile prints the type of the file iamafile
