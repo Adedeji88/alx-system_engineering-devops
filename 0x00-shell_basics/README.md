@@ -1,1 +1,2 @@
 rm *~ is used to delete all files in the current working directory that end with ~ character
+mkdir -p welcome/to/school is used to create the directories welcome/, welcome/to/, and welcome/to/school/ in the current directory
