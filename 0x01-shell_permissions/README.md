@@ -7,5 +7,6 @@ chmod u+x,g+x,o+r hello is used to give multiple permissions
 chmod ugo+x hello is used to give executive permission to everybody
 chmod 007 hello is used to give the owner and group no permission and all the permissios to other users
 chmod 753 hello is used for setting the file mode to the given mode
+chmod --reference olleh hello
 chmod -R a+X ./ is used to add executive permissions to all the subdirectories of the current directory for everybody
 mkdir -m 751 my_dir creates a directory my_dir with the permission 751 in the working directory
