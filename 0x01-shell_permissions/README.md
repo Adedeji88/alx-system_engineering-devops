@@ -11,3 +11,4 @@ chmod --reference olleh hello
 chmod -R a+X ./ is used to add executive permissions to all the subdirectories of the current directory for everybody
 mkdir -m 751 my_dir creates a directory my_dir with the permission 751 in the working directory
 chgrp school hello changes the group owner to school for the file hello
+chown -R vincent:staff ./ is used to change the owner to vincent and the group owner to staff for all files and directories in working directory
