@@ -14,3 +14,4 @@ chgrp school hello changes the group owner to school for the file hello
 chown -R vincent:staff ./ is used to change the owner to vincent and the group owner to staff for all files and directories in working directory
 chown -h vincent:staff _hello is used for the symbolic link
 chown --from=guillaume betty hello changes the owner of the file hello to betty only if it owned by guillaume
+telnet towel.blinkenlights.nl is used to play Star Wars IV
