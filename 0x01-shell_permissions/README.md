@@ -5,3 +5,4 @@ chown betty hello is used to change the owner of the file hello to the user bett
 chmod u+x hello is used to add executive permission to the owner of the file hello
 chmod u+x,g+x,o+r hello is used to give multiple permissions
 chmod ugo+x hello is used to give executive permission to everybody
+chmod 007 hello is used to give the owner and group no permission and all the permissios to other users
