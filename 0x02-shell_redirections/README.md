@@ -3,3 +3,4 @@ echo "\"(Oo)'" is used to display the confused smiley "(Oo)'"
 cat /etc/passwd is used to display the content of the file /etc/passwd
 cat /etc/passwd etc/hosts is used to display the content of /etc/passwd and etc/hosts
 tail /etc/passwd is used to display the last 10 lines of /etc/passwd
+head /etc/passwd is used to display the first 10 lines of /etc/passwd
