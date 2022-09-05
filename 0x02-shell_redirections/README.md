@@ -4,3 +4,4 @@ cat /etc/passwd is used to display the content of the file /etc/passwd
 cat /etc/passwd etc/hosts is used to display the content of /etc/passwd and etc/hosts
 tail /etc/passwd is used to display the last 10 lines of /etc/passwd
 head /etc/passwd is used to display the first 10 lines of /etc/passwd
+head -3 iacta | tail -1 is used to display the third line of the file iacta
