@@ -1,0 +1,1 @@
+echo "Hello, World" is used to print "Hello, World"
