@@ -8,3 +8,4 @@ head -3 iacta | tail -1 is used to display the third line of the file iacta
 echo -e is used to display Best School in the given format
 ls -la >> ls_cwd_content is used to save current state of the directory
 tail -1 iacta >> iacta is used to duplicate the last line of the file iacta
+find . -type f -name '*.js' -delete is used to delete all the regular files ending with .js extension
