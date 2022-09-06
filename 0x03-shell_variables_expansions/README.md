@@ -26,6 +26,12 @@
 
 13-print_float - Write a script that prints a number with two decimal places. 
 
+100-decimal_to_hexadecimal - Write a script converting a number from base 10 to base 16. 
 
+101-rot13 - Write a script encoding and decoding text with the rot13 encryption.
+
+102-odd - Write a script that printing every other line from the input.
+
+103-water_and_stir - Write a shell script adding the 2 numbers stored in the environment variables WATER and STIR and prints the result.
 
 
