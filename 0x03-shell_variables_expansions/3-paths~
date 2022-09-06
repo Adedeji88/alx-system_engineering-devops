@@ -1,0 +1,2 @@
+#!/bin/bash
+ehco $(printf $PATH | tr ":" "\n" | wc -w)
